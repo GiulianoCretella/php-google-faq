@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .lower-alpha{
+    list-style-type: lower-alpha;
+}
+ul li, p{
+    list-style-type:none;
+    padding-top: 20px;
+}
+ol li{
+    list-style-type: decimal;
+}
+ul{
+    padding-left: 0;
+}
